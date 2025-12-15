@@ -30,6 +30,7 @@ class _FingerprintImplementationState extends State<FingerprintImplementation> {
         'startFingerprintAuth',
         {'verification_token': verificationTokenPlaceholder},
       );
+      // ignore: avoid_print
       print('Fingerprint auth result: $result');
 
       setState(() {

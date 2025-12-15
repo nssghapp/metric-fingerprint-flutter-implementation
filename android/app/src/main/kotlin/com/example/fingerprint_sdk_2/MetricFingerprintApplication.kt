@@ -15,8 +15,8 @@ class MetricFingerprintApplication : Application() {
                 logo = Logo.Url("https://example.com/logo.png"),
                 color = "#f7cd46"
             ),
-            clientKey = "o2BoxLWJA81a1kTM6fSD",
-            secretKey = "rnGAuaaGbk4eKovDNjJAuKTPEsV7E1FXUkaOAesEawzrd",
+            clientKey = "CLIENT-KEY-HERE",
+            secretKey = "SECRET-KEY-HERE",
             environment = Environment.PROD
         )
         

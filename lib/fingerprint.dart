@@ -22,7 +22,7 @@ class _FingerprintImplementationState extends State<FingerprintImplementation> {
       _isLoading = true;
       _authStatus = 'Initiating fingerprint scan...';
     });
-    const String verificationTokenPlaceholder = "RY4WILJHN";
+    const String verificationTokenPlaceholder = "TOKEN-HERE";
 
     try {
       // The method name 'startFingerprintAuth' must match the one used in native code.

@@ -6,8 +6,8 @@ allprojects {
             url = uri("http://android.metric.africa:8081/artifactory/metric-sdk-sdk")
             isAllowInsecureProtocol = true
             credentials {
-                username = "fingermetric"
-                password = "User@4321"
+                username = "USERNAME-HERE"
+                password = "PASSWORD-HERE"
             }
         }
     }
